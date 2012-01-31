@@ -1,0 +1,27 @@
+{
+  "name": "cef",
+  "preferGlobal": "true",
+  "version": "0.2.0",
+  "author": "Yvan Boily <yvanboily@gmail.com>",
+  "description": "A naive CEF logging library.",
+  "contributors": [ 
+    {
+      "name": "Yvan Boily",
+      "email": "yvanboily@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ygjb/cef.git"
+  },
+  "keywords": [
+	"cef",
+	"syslog",
+	"syslogd",
+	"arcsight"
+  ],
+  "license": "MPL",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
