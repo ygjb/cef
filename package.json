@@ -2,6 +2,7 @@
   "name": "cef",
   "preferGlobal": "true",
   "version": "0.2.0",
+  "main" : "lib/CEF.js",
   "author": "Yvan Boily <yvanboily@gmail.com>",
   "description": "A naive CEF logging library.",
   "contributors": [ 
