@@ -14,7 +14,7 @@ or
 
 cef.syslog(...) to generate that string and write it to syslog
 
-See [example.js](example.js) for a detailed example on how to use the API.
+See [example.js](https://github.com/ygjb/cef/blob/master/example.js) for a detailed example on how to use the API.
 
 ## Dependencies ##
 
